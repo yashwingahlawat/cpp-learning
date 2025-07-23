@@ -1,0 +1,22 @@
+.vscode
+.log
+# Ignore object files and compiled binaries
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Build directory
+/build/
+/bin/
+/debug/
+/release/
